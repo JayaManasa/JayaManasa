@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Manasa
+# 👋 Hi there! 
 
 I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating innovative solutions.
 
