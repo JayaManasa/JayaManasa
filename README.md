@@ -5,7 +5,6 @@ I'm a Data Scientist passionate about Computer Vision, Deep Learning, and AI inn
 ## 🚀 What I Do
 
 - 🤖 Specialize in Computer Vision and Deep Learning
-- 🧠 Deploy SOTA transformer models
 - 📊 Develop scalable AI pipelines
 - 💡 Create innovative AI solutions for real-world problems
 
