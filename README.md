@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Manasa
 
-I'm a Data Scientist passionate about Computer Vision, Deep Learning, and AI innovations. Currently crafting intelligent solutions at Joly AI.
+I'm a Data Scientist passionate about Computer Vision, Deep Learning, and AI innovations. 
+🌱 Currently crafting intelligent solutions at Joly AI.
 
 ## 🚀 What I Do
 
