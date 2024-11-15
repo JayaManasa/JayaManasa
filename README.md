@@ -2,7 +2,7 @@
 
 I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating innovative solutions.
 
-👯 I'm currently working on Computer Vision and Deep Learning projects at Joly AI.
+👯 I'm currently working on Computer Vision and Deep Learning projects at Joly AI.           
 📫 Reach me at: jayamanasa.y@gmail.com        
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jayamanasa/)
 
