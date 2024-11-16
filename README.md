@@ -2,9 +2,9 @@
 
 I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating innovative solutions.
 
-👯 I'm currently working on Computer Vision and Deep Learning projects at Joly AI.           
-📫 Reach me at: jayamanasa.y@gmail.com        
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jayamanasa/)
+🌱 I'm currently working on Computer Vision and Deep Learning projects at Joly AI.           
+   Reach me at: jayamanasa.y@gmail.com        
+   Connect with me on [LinkedIn](https://www.linkedin.com/in/jayamanasa/)
 
 ## 🚀 What I Do
 
@@ -13,7 +13,7 @@ I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating 
 - 💡 Create innovative AI solutions for real-world problems
 
 
-🌱 I recently built **Conscious Cart** - A nutrition advisor that analyzes your grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
+ I recently built **Conscious Cart** - A nutrition advisor that analyzes your grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
 
 <!--
 **JayaManasa/JayaManasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
