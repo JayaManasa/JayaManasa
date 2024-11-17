@@ -15,6 +15,12 @@ I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating 
 
  I recently built **Conscious Cart** - A nutrition advisor that analyzes your grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
 
+ ## ⚡ Currently Exploring and learning
+
+- LLM applications and fine-tuning methods
+- Speech-to-Text and Text-to-Speech technologies
+
+
 <!--
 **JayaManasa/JayaManasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
