@@ -2,7 +2,7 @@
 
 I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating innovative solutions.
 
-🌱 I'm currently working on Computer Vision and Deep Learning projects at Joly AI.           
+⚡ I'm currently working on Computer Vision and Deep Learning projects at Joly AI.           
    Reach me at: jayamanasa.y@gmail.com        
    Connect with me on [LinkedIn](https://www.linkedin.com/in/jayamanasa/)
 
@@ -15,7 +15,7 @@ I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating 
 
  I recently built **Conscious Cart** - A nutrition advisor that analyzes your grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
 
- ## ⚡ Currently Exploring and learning
+ ## 🌱 Currently Exploring and learning
 
 - LLM applications and fine-tuning methods
 - Speech-to-Text and Text-to-Speech technologies
