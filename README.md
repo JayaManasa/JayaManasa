@@ -13,12 +13,9 @@ I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating 
 - Large Language Models (LLMs)
 
 
- I recently worked on **Conscious Cart** - A nutrition advisor that analyzes your grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
+ I recently worked on **Conscious Cart** - A nutrition advisor that analyzes grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
 
- ## 🌱 Currently Exploring 
-- LLM Applications & Fine-tuning Techniques
-- Speech Processing Technologies (STT/TTS)
-- Advanced Computer Vision Applications
+
 
 
 <!--
