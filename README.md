@@ -6,14 +6,13 @@ I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating 
    Reach me at: jayamanasa.y@gmail.com        
 
 
-## 💡 Core Expertise
-- Computer Vision & Deep Learning
-- Machine Learning Pipeline Development
-- AI Solution Architecture
-- Large Language Models (LLMs)
+## Core Expertise
+- Computer Vision 
+- Machine Learning & Deep Learning Pipeline Development
+- Multimodal LLMs 
 
 
- I recently worked on **Conscious Cart** - A nutrition advisor that analyzes grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
+ Last project I worked on is **Conscious Cart** - A nutrition advisor that analyzes grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
 
 
 
