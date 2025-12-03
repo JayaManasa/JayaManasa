@@ -1,19 +1,14 @@
 # 👋 Hi there! 
 
-I'm Manasa, a Data Scientist passionate about AI, Computer Vision, and creating innovative solutions.
+I'm Manasa. I work on data science projects at Joly AI, mostly computer vision and deep learning. Part of the founding team.
 
-⚡ I'm currently working on Computer Vision and Deep Learning projects at Joly AI.           
-   Reach me at: jayamanasa.y@gmail.com        
+## Projects
 
+**Conscious Cart** — Nutrition advisor that reads grocery invoices and gives you a breakdown using LLMs.  
+[Try it here](https://hackathon-project-frontend.vercel.app/)
 
-## Core Expertise
-- Computer Vision 
-- Machine Learning & Deep Learning Pipeline Development
-- Multimodal LLMs 
-
-
- Last project I worked on is **Conscious Cart** - A nutrition advisor that analyzes grocery invoices using GenAI. Try it out here: https://hackathon-project-frontend.vercel.app/
-
+**Fundus Annotator** — Lightweight annotation tool for labeling retinal images. Built for diabetic retinopathy research.  
+[GitHub]([link](https://github.com/JayaManasa/annotation_tool.git))
 
 
 
