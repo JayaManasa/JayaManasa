@@ -8,7 +8,7 @@ I'm Manasa. I work on data science projects at Joly AI, mostly computer vision a
 [Try it here](https://hackathon-project-frontend.vercel.app/)
 
 **Fundus Annotator** — Lightweight annotation tool for labeling retinal images. Built for diabetic retinopathy research.  
-[GitHub]([link](https://github.com/JayaManasa/annotation_tool.git))
+[GitHub](https://github.com/JayaManasa/annotation_tool.git)
 
 
 
